@@ -31,10 +31,14 @@ we look at short-read sequencing for now.
 
 + There are some pipelines (tutorial) for CNV calling from DNA sequencing data:
 
-  + t
+  + Pipeline from Broad Instititue (bash): http://software.broadinstitute.org/software/genomestrip/node_CNVPipelineOverview.html
+
+  + CNVkit (python): https://cnvkit.readthedocs.io/en/stable/pipeline.html
+
+  + DNA-seq analysis pipeline from NIH: https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/
 
 ## Some papers related with CNV and CNV analyses
 
 + 'Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease' https://www.nature.com/articles/s41436-018-0295-y
 
-+ 
++ 'A highly sensitive and specific workflow for detecting rare copy-number variants from exome sequencing data' https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0
