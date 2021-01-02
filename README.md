@@ -20,7 +20,21 @@ the CNVs are not located in coding regions.
 
 + ENCODE, CNV track, https://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeHudsonalphaCnv
 
-## CNV analysis
+## CNV analyses
 
-CNV are normally called from whole genome sequencing (WGS) data or whole exome
++ CNV are normally called from whole genome sequencing (WGS) data or whole exome
 sequencing (WES) data.
+
++ Comparing to short-read sequencing and bulk tissue sequencing, long read
+genome sequencing and single cell sequencing is not widely used at present. So
+we look at short-read sequencing for now.
+
++ There are some pipelines (tutorial) for CNV calling from DNA sequencing data:
+
+  + t
+
+## Some papers related with CNV and CNV analyses
+
++ 'Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease' https://www.nature.com/articles/s41436-018-0295-y
+
++
