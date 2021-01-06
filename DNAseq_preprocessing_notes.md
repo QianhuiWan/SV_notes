@@ -1,15 +1,17 @@
 
-Normally, HPC is used for data preprocessing since the raw data is very large
+Normally, HPC is used for data pre-processing since the raw data is very large
 (~ 100 GB or more for each sample) and need more RAM to process. Large data may
-be stored in cloud or in HPC (data storage part of HPC).
+be stored in cloud or in HPC (data storage part of a HPC).
 
-Bash is the command language that is normally used for preprocessing. But there
+Bash is the command language that is normally used for pre-processing. But there
 are also tools from packages written with python, R, Java or purl.
 
-There are handy integrated development environment (IDE) for
-python (PyCharm) and R (RStudio). But in HPC linux system, IDE is a bit hard to
-achieve. Using virtual machine in HPC could probably allow us to use IDE easier.
+There are handy integrated development environment (IDE), e.g. PyCharm for
+python and RStudio for R. But in HPC linux system, IDE is a bit hard to
+achieve. Using virtual machine in HPC could probably allow us to use IDE.
 
+We can start with some useful bash commands (execute these commands in
+terminal):
 
 # Useful bash commands
 
