@@ -92,8 +92,8 @@ terminal):
 
 + Align `fastq` files to reference genome and output`.bam` files
 
-+ Find the best aligner by reading related publications. If time allowed, we
-can test and compare the aligners using our data.
++ Find the best aligner by reading related publications. If time allowed, you
+can test and compare the aligners using your data.
 
 # Post-alignment
 
