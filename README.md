@@ -16,9 +16,11 @@ the CNVs are not located in coding regions.
 
 ## Database of SV
 
-+ NCBI, CNV track, http://genome.ucsc.edu/cgi-bin/hgc?hgsid=806070869_YFBnEeX6AkbpLIEabh1KygvTh0c9&c=chr6&l=162725083&r=162725907&o=162712346&t=162750092&g=dgvSupporting&i=essv7014351
++ NCBI, CNV track,
+http://genome.ucsc.edu/cgi-bin/hgc?hgsid=806070869_YFBnEeX6AkbpLIEabh1KygvTh0c9&c=chr6&l=162725083&r=162725907&o=162712346&t=162750092&g=dgvSupporting&i=essv7014351
 
-+ ENCODE, CNV track, https://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeHudsonalphaCnv
++ ENCODE, CNV track,
+https://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeHudsonalphaCnv
 
 ## CNV analyses
 
@@ -39,6 +41,14 @@ we look at short-read sequencing for now.
 
 ## Some papers related with CNV and CNV analyses
 
-+ 'Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease' https://www.nature.com/articles/s41436-018-0295-y
++ 'Copy-number variants in clinical genome sequencing: deployment and
+interpretation for rare and undiagnosed disease'
+https://www.nature.com/articles/s41436-018-0295-y
 
-+ 'A highly sensitive and specific workflow for detecting rare copy-number variants from exome sequencing data' https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0
++ 'A highly sensitive and specific workflow for detecting rare copy-number
+variants from exome sequencing data'
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0
+
++ 'Validation of an ultra-fast CNV calling tool for Next Generation Sequencing
+data using MLPA-verified copy number alterations'
+https://www.biorxiv.org/content/10.1101/340505v1

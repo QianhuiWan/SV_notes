@@ -72,11 +72,24 @@ terminal):
 
 + Check how to use function in bash
   - man functionXXX
-  - functionXXX -help
+  - functionXXX --help
+
++ More information about command line for genomics see website:
+https://edcarp.github.io/shell-genomics-eddie/aio/
 
 # Start from `fastq` files, pre-alignment
 
+Here is the explanation of `fastq` files:
+https://sapac.support.illumina.com/bulletins/2016/04/fastq-files-explained.html
+
+For single-end run, we only have one read file (R1) for each sample per flow
+cell lane. For paired-end run, we have two read files (R1 and R2) for each
+sample per flow cell lane.
+
+Each sample normally run in multiple lanes to make sure we have enough coverage.
+
 + Demultiplexing
+Demultiplexing assigns clusters to a sample,
 
 + Raw sequencing QC (FastQC)
 
