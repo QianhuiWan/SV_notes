@@ -106,7 +106,7 @@ Demultiplexing assigns clusters to a sample,
 + Align `fastq` files to reference genome and output`.bam` files
 
 + Find the best aligner by reading related publications. If time allowed, you
-can test and compare the aligners using your data.
+can test and compare the aligners using your data and standard public data.
 
 # Post-alignment
 
