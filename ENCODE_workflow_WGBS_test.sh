@@ -2,7 +2,7 @@
 
 ## Qianhui Wan (qianhui.wan@flinders.edu.au)
 ## 2021-01-09
-## Standard ENCODE pipeline was used for these WGBS data (Flinders HPC)
+## Standard ENCODE pipeline was used for our WGBS data (Flinders HPC)
 ## https://github.com/ENCODE-DCC/wgbs-pipeline
 ## clone the pipeline using
 ## $ git clone https://github.com/ENCODE-DCC/wgbs-pipeline
