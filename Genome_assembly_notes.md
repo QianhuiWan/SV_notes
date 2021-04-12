@@ -1,4 +1,4 @@
-# My notes from Genome Assembly Workshop (12April2021):
+# My Notes of Genome Assembly Workshop (12April2021):
 
   - Meta-genomics
     - Yeast ITS profiling for wine samples
