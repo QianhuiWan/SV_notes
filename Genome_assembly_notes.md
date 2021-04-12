@@ -7,7 +7,7 @@
   - NGS applications (SAGC)
     - DNA and RNA sequencing
     - Single cell genomics: 10000 cells in one go
-    - Spacial transcriptomics by Visium
+    - Spatial transcriptomics by Visium (Visium Spatial Gene Expression)
     - High throught put qPCR
     - Use `nextflow` and `snakemake` for pipeline orgnisation
     - Help with experimental design
