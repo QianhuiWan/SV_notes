@@ -34,7 +34,8 @@
     - Nanopore long read sequencing has higher error rate than short read
     sequencing and PacBio long read sequencing but still a good way to know the
     location of repeat elements. PacBio long read is shorter than Nanopore, but
-    more accurate.
+    more accurate. PacBio long read sequencing is as accurate as short read 
+    sequencing becuase they all have repeated measures for each base pair.
 
     - Workshop contents: SARS-CoV-2 data set is used as an example for showing
     genome assembly steps. See the flowing link for workshop details:
