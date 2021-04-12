@@ -4,7 +4,7 @@
     - Yeast ITS profiling for wine samples
     - RNA Sequencing is used for this profiling
 
-  - NGS applications
+  - NGS applications (SAGC)
     - DNA and RNA sequencing
     - Single cell genomics: 10000 cells in one go
     - Spacial transcriptomics by Visium
