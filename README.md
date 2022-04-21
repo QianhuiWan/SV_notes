@@ -4,7 +4,7 @@
 
 Genomic structural variation (SV) means the variation of chromosome structures.
 SV contains many types of variations including deletion, duplication,
-copy number variations (CNV), insertions, translocations etc. It normally
+copy number variations (CNV), insertions, translocation etc. It normally
 affects a sequence of 1 kb to 3 Mb in length.
 
 SV is larger than SNP and more difficult to detect than SNPs. Some diseased are

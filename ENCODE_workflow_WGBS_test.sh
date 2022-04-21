@@ -17,7 +17,7 @@ module load python/3.8 ## This version is python3.8
 pip install caper
 ## Check Caper installed or not:
 caper
-## Inotialise Caper in slurm backend:
+## Initialise Caper in slurm backend:
 caper init slurm
 ## edit the default.conf file in /home/wan1722/.caper directory
 ## Attention: we need to chage to our output directory first and then run caper.
@@ -32,7 +32,7 @@ caper init slurm
 ## mapping bisulfite sequencing reads against a Bismark transformed genome
 ## Bismark-transformed, Bowtie-indexed genome is needed
 
-# Runing workflow
+# Running workflow
 
 ## Prepare input.json file
 
